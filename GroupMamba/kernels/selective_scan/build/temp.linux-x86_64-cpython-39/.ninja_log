@@ -1,0 +1,10 @@
+# ninja log v5
+0	7497	1752561885497401614	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cus/selective_scan_core_fwd.o	5388dbb5d6c571ae
+0	8756	1752561886758419832	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cus/selective_scan.o	432d3d8a93ea4b28
+0	24605	1752561902594648115	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cus/selective_scan_core_bwd.o	b674a14343e5cadb
+2	7179	1752561910055755346	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cusndstate/selective_scan_core_fwd.o	5c2316d4a4ecb358
+2	8877	1752561911756779764	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cusndstate/selective_scan_ndstate.o	4cc72f18a1c21d9b
+2	24144	1752561927006998221	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cusndstate/selective_scan_core_bwd.o	5fc6f9d588d2fdb6
+3	8900	1752561936171129099	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cusoflex/selective_scan_oflex.o	b39aada2edd63951
+3	11095	1752561938360160319	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	7bfb31add6112604
+3	38792	1752561966054553890	/home/omnisky/zyg/MBVi/MambaVision/GroupMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	7207f517e75950fe
